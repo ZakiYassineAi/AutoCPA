@@ -1,0 +1,76 @@
+{
+  "date": "2025-08-31",
+  "top_opportunities": [
+    {
+      "problem_description": "University students suffer from chronic sleep deprivation due to academic stress, poor schedules, and noisy environments. This directly impacts their grades, mental health, and well-being.",
+      "target_audience": "University and college students (age 18-25)",
+      "pain_indicators": [
+        "Lower GPA",
+        "Can't concentrate",
+        "Anxiety",
+        "Falling asleep in class"
+      ],
+      "frequency_score": 9.0,
+      "audience_size": 5000000,
+      "keywords": [
+        "how to sleep better in college",
+        "student insomnia",
+        "study life balance",
+        "dorm room sleep hacks"
+      ],
+      "competing_solutions": [
+        "Generic advice blogs",
+        "University counseling",
+        "Basic products like earplugs"
+      ],
+      "opportunity_score": 9.2
+    },
+    {
+      "problem_description": "Remote workers and teams struggle with productivity, communication, and project tracking, leading to missed deadlines, burnout, and inefficient workflows.",
+      "target_audience": "Remote workers, freelancers, team leaders, SMBs",
+      "pain_indicators": [
+        "Missed deadlines",
+        "Communication breakdown",
+        "Feeling overwhelmed",
+        "Working too much"
+      ],
+      "frequency_score": 8.5,
+      "audience_size": 8000000,
+      "keywords": [
+        "remote work productivity",
+        "project management tools",
+        "SaaS for teams",
+        "improve team communication"
+      ],
+      "competing_solutions": [
+        "Asana",
+        "Trello",
+        "Monday.com",
+        "Slack"
+      ],
+      "opportunity_score": 9.5
+    }
+  ],
+  "matching_offers": [
+    {
+      "offer_id": "SLEEPBEYOND01",
+      "network": "Direct",
+      "payout_model": "10% commission on sales (AOV ~$250)",
+      "payout": 25.0,
+      "landing_quality": 8.0,
+      "match_score": 9.5,
+      "affiliate_link": "https://sleepandbeyond.com/become-our-affiliate/",
+      "promotion_guidelines": "Promote certified organic and natural bedding to a health-conscious audience. Highlight benefits for sleep quality."
+    },
+    {
+      "offer_id": "PROJECTCO01",
+      "network": "Direct",
+      "payout_model": "Up to 40% recurring commission",
+      "payout": 0.0,
+      "landing_quality": 8.5,
+      "match_score": 9.0,
+      "affiliate_link": "https://project.co/affiliate/",
+      "promotion_guidelines": "Target creators, freelancers, and agencies who need a better way to manage projects and clients."
+    }
+  ]
+}
